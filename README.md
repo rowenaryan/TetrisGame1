@@ -2,12 +2,14 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-To play the game:
-1. Go to the **Settings** tab of this repository.
-1. Scroll down to the section titled _GitHub Pages_
-1. Select **main** from the Source drop-down.
-1. Click **Save**.
-1. Navigate to the URL provided in the same section.
+To play the game: navigate to (https://rowenaryan.github.io/TetrisGame1)
+
+### Instructions for playing the game:
+1. Press the space bar to begin.
+2. Uee the up & down arrow keys to rotate the shape.
+3. Use the left & right arrow keys to position the shape. 
+4. The goal is to complete rows with no empty spaces.
+5. Whwn completed, the rows will disappear. 
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
