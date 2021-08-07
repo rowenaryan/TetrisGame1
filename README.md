@@ -10,7 +10,7 @@ To play the game: navigate to (https://rowenaryan.github.io/TetrisGame1)
 3. Use the left & right arrow keys to position the shape. 
 4. The goal is to complete rows with no empty spaces.
 5. Whwn completed, the rows will disappear. 
-
+6. To pause the game, just press the space bar again.
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
